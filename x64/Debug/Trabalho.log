@@ -1,0 +1,18 @@
+﻿  Trabalho.cpp
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(147,39): warning C4244: '=': conversão de 'std::streamoff' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(162,74): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(181,99): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(212,62): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(259,78): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(297,57): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(332,89): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(332,30): warning C4101: 'pontos': variável local não referenciada
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(382,55): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(381,13): warning C4101: 'timeEncontrado': variável local não referenciada
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(415,55): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(452,55): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(678,39): warning C4244: '=': conversão de 'std::streamoff' para 'int', possível perda de dados
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(410): warning C4715: 'buscaTimePorNome': nem todos os caminhos de controle retornam um valor
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(447): warning C4715: 'buscaTimePorPontuacao': nem todos os caminhos de controle retornam um valor
+C:\Workspace\trabalho_ufla_ialg\Trabalho.cpp(480): warning C4715: 'buscaTimePorVitoria': nem todos os caminhos de controle retornam um valor
+  Trabalho.vcxproj -> C:\Workspace\trabalho_ufla_ialg\x64\Debug\Trabalho.exe
