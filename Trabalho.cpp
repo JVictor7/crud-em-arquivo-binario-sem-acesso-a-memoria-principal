@@ -1,6 +1,6 @@
 // Trabalho.cpp : Este arquivo contém a função 'main'. A execução do programa começa e termina ali.
 // Feito Por: Arthur Lucas Bosco Cunha e Castro e Joao Victor Oliveira
-//GITHUB: https://github.com/arthur-lucas-castro/trabalho_ufla_ialg
+//GITHUB: https://github.com/JVictor7/crud-em-arquivo-binario-sem-acesso-a-memoria-principal
 
 #include <iostream>
 #include <fstream>  
